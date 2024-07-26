@@ -3,10 +3,7 @@
 - feature-A
 
 
-fix-B
+- fix-B
 
 
-fix-b
-fix-b
-
-fix-B
+- feature-C
